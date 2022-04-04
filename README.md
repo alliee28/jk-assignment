@@ -19,7 +19,7 @@ __This is also a bold sentence__
 ~~This is a strikethrough comment~~
 
 > This is a blockquote
-> TThis is also part of the blockquote
+> This is also part of the blockquote
 
 * This is list item 1
 * Item 2
@@ -40,3 +40,6 @@ __This is also a bold sentence__
 ###### Below are horizontal lines
 ***
 ---
+
+[Google](http://google.com)
+![this is the alt text](images/dog.webp)
