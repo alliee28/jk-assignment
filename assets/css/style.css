@@ -1,0 +1,7 @@
+:-moz-ui-invalid---
+
+/* @import "{{ site.theme }}"; */
+
+h1{
+    color:#000000;
+}
