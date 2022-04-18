@@ -13,3 +13,12 @@ li.btn{
     display:flex;
     list-style: none;
 }
+// News CSS
+.card{
+    display:flex;
+    margin-bottom:1rem;
+    border-bottom: slid 1px #ccc;
+}
+.pic{
+    margin-right:1.5rem;
+}
